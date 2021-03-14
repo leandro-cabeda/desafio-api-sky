@@ -1,0 +1,32 @@
+{
+    "name": "sky_backend",
+    "version": "1.0.0",
+    "description": "Desafio Back-End Api com NodeJS com autenticação token e Express",
+    "main": "index.js",
+    "private": true,
+    "bin": "index.js",
+    "keywords": [],
+    "scripts": {
+        "start": "nodemon index",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Leandro Cabeda Rigo",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^7.22.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.22.1",
+        "nodemon": "^2.0.2"
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "consign": "^0.1.6",
+        "cors": "^2.8.5",
+        "express": "4.17.1",
+        "jsonwebtoken": "8.5.1",
+        "moment-timezone": "^0.5.28",
+        "mongodb": "^3.5.4",
+        "mongoose": "5.9.3"
+    }
+}
