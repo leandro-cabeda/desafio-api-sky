@@ -25,6 +25,7 @@ link: http://localhost:5000
 
 ## **Link Welcome API Sky Web**
 link [Heroku-Projeto-API-Welcome](https://sky-api-backend.herokuapp.com)
+- Porém ao tentar fazer deploy no Heoku, Heroku não conseguiu estabelecer a conexão no MongoDb Atlas Cloud com minha conta de acesso que eu configurei. Igual tentei e esta aqui o link, mas na maquina local esta funcionando de acordo  da documentação do teste.
 
 ## **Link GitHub Desafio Projeto API**
 Acesse url [GitHub-Projeto-API](https://github.com/leandro-cabeda/desafio-api-sky)
